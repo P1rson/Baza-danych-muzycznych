@@ -4,8 +4,12 @@ Po uruchomieniu programu baza danych zostanie automatycznie utworzona, jeśli ni
 istnieje.
 # Struktura bazy
 Program automatycznie tworzy cztery tabele:
+
 genres – gatunki muzyczne
+
 artists – artyści 
+
 albums – albumy powiązane z artystami 
+
 tracks – utwory powiązane z albumami i 
 gatunkami
